@@ -8,7 +8,7 @@ A basic bot who executes some commands.
 Return the joindate with !joindate:
 
 
-![](exemple1.png)
+![](example1.gif)
 
 ## Release History
 
