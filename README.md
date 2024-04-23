@@ -19,7 +19,7 @@ Return the joindate with !joindate:
 
 ## Linkedin
 
-Desoutter Guillaume – [@Linkedin]([https://www.linkedin.com/in/guillaume-desoutter/])
+Desoutter Guillaume – [@Linkedin](https://www.linkedin.com/in/guillaume-desoutter/) -
 
 
 
