@@ -1,6 +1,4 @@
 # Botty
-> An another discord bot
-
 
 A basic bot who executes some commands.
 
@@ -14,7 +12,7 @@ A basic bot who executes some commands.
 Return the joindate with !joindate:
 
 
-![](example.png)
+![](exemple1.png)
 
 ## Release History
 
