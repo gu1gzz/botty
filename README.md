@@ -2,8 +2,6 @@
 
 A basic bot who executes some commands.
 
-## Installation
-
 
 ## Usage example
 
