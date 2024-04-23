@@ -20,7 +20,7 @@ class bot(discord.Client):
 
   #Return the number of users in the guild (!nb -> return the count of all the users // !nbstatus -> return the number of connected users)
     async def nb_user(self,message):
-        guild = self.get_guild(792707710733778964)
+        guild = self.get_guild(#guildid)
         user_number = guild.member_count
         members = guild.members
         nb_online = 0
@@ -33,7 +33,7 @@ class bot(discord.Client):
             await message.reply(f"Il y a {nb_online} membres en ligne")
 #Return the date when the user join the discord, command = !joindate
     async def joindate(self,message):
-        channel = self.get_channel(792707710733778967)
+        channel = self.get_channel(#channelid)
         if message.content == '!joindate':
             user = message.author
             datejoin = str(user.joined_at)
