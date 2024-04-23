@@ -5,7 +5,7 @@ A basic bot who executes some commands.
 
 ## Usage example
 
-Return the joindate with !joindate:
+Launch some commands with ! at beginning
 
 
 ![](example1.gif)
